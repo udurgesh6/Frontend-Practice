@@ -30,7 +30,7 @@ function Features() {
               height: "100%",
             }}
           >
-            <h1>Create your account</h1>
+            <h1>Create your account if not created</h1>
             <div
               style={{
                 display: "flex",
