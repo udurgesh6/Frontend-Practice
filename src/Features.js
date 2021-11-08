@@ -39,11 +39,7 @@ function Features() {
                 justifyContent: "space-between",
                 width: "300px",
               }}
-            >
-              <p>Facebook</p>
-              <p>Google</p>
-              <p>Apple</p>
-            </div>
+            ></div>
             <input placeholder="Name" style={{ width: "300px" }} />
             <input placeholder="Email" style={{ width: "300px" }} />
             <input placeholder="Password" style={{ width: "300px" }} />
